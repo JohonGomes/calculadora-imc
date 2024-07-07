@@ -1,5 +1,5 @@
 # Projeto Calculadora IMC
-  Usando o React, principios básicos de estilização e useState.
+  Usando o React, principios básicos de estilização, estrutura condicional IF, função, useState, eventos onClick e onChange.
 
 [Acesse o site da Calculadora](https://calculadora-imc-jhn.vercel.app/)
 
